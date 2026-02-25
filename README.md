@@ -14,8 +14,6 @@ Para utilizar o projeto, basta abrir o arquivo no Visual Studio, compilar e exec
 Observações
 Este projeto foi criado como exercício de aprendizado e demonstra os conceitos básicos de manipulação de eventos, entrada de dados do usuário e criação de interface gráfica em C#.
 
-Versão em inglês (formatted):
-
 AgeCalc
 
 This is a Windows Forms project developed in C# to calculate a person's age based on their birth year. It is ideal for beginners looking to practice graphical interfaces, event handling, and basic logic in C#.
